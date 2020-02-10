@@ -78,4 +78,4 @@ Please contact [support](mailto:support@counterparty.io) with the error, along w
 
 ## CREDITS 
 
-Credit to the general structure of this program as well as much of the wording goes to [Tarsnap](http://www.tarsnap.com/bugbounty.html).
+lolCredit to the general structure of this program as well as much of the wording goes to [Tarsnap](http://www.tarsnap.com/bugbounty.html).
